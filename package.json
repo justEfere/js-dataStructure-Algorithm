@@ -1,0 +1,14 @@
+{
+  "name": "data-structures-algorithm",
+  "version": "1.0.0",
+  "description": "contains basic js challenges, data structure and algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "justefere",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
